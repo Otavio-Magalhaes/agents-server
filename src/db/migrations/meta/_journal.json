@@ -8,6 +8,13 @@
       "when": 1751946465483,
       "tag": "0000_unknown_the_santerians",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752003106101,
+      "tag": "0001_nosy_mandroid",
+      "breakpoints": true
     }
   ]
 }
