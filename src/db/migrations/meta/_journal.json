@@ -15,6 +15,13 @@
       "when": 1752003106101,
       "tag": "0001_nosy_mandroid",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752886329966,
+      "tag": "0002_tearful_stephen_strange",
+      "breakpoints": true
     }
   ]
 }
